@@ -28,19 +28,16 @@ let pin6 = document.getElementById("pin6");
 
 guitarPad1.style.fill = `rgb(${getRandomInt(0, 250)}, ${getRandomInt(0, 250)}, ${getRandomInt(0, 250)})`;
 guitarPad2.style.fill = guitarPad1.style.fill;
-
 pin1.style.fill = guitarPad1.style.fill;
 pin2.style.fill = guitarPad1.style.fill;
 pin3.style.fill = guitarPad1.style.fill;
 pin4.style.fill = guitarPad1.style.fill;
 pin5.style.fill = guitarPad1.style.fill;
 pin6.style.fill = guitarPad1.style.fill;
-
 guitarBody1.style.fill = `rgb(${getRandomInt(0, 250)}, ${getRandomInt(0, 250)}, ${getRandomInt(0, 250)})`;
 guitarBody2.style.fill = guitarBody1.style.fill;
 guitarBody3.style.fill = guitarBody1.style.fill;
 guitarBody4.style.fill = guitarBody1.style.fill;
-
 electronica1.style.fill = `rgb(${getRandomInt(0, 250)}, ${getRandomInt(0, 250)}, ${getRandomInt(0, 250)})`;
 electronica2.style.fill = electronica1.style.fill;
 electronica3.style.fill = electronica1.style.fill;
