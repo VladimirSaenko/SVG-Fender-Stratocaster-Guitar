@@ -48,14 +48,14 @@ electronica7.style.fill = electronica1.style.fill;
 electronica8.style.fill = electronica1.style.fill;
 electronica9.style.fill = electronica1.style.fill;
 
-inputMain.addEventListener('change', ()=> {
+inputMain.addEventListener('input', ()=> {
     guitarBody1.style.fill = inputMain.value;
     guitarBody2.style.fill = inputMain.value;
     guitarBody3.style.fill = inputMain.value;
     guitarBody4.style.fill = inputMain.value;
 })
 
-inputPad.addEventListener('change', function() {
+inputPad.addEventListener('input', function() {
     guitarPad1.style.fill = inputPad.value;
     guitarPad2.style.fill = inputPad.value;
     pin1.style.fill = guitarPad1.style.fill;
@@ -66,7 +66,7 @@ inputPad.addEventListener('change', function() {
     pin6.style.fill = guitarPad1.style.fill;
 })
 
-inputElectrics.addEventListener('change', function() {
+inputElectrics.addEventListener('input', function() {
     electronica1.style.fill = inputElectrics.value;
     electronica2.style.fill = inputElectrics.value;
     electronica3.style.fill = inputElectrics.value;
