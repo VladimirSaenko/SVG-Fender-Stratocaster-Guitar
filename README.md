@@ -1,4 +1,4 @@
-# 🎸SVG-Custom-Fender-Guitar🎸
+# 🎸SVG-Fender-Stratocaster-Guitar🎸
 
 ## Кастомная гитара Fender Stratocaster 🎸
 
@@ -6,4 +6,4 @@
 
 ### Codepen: https://codepen.io/vladimirsaenko/pen/NWavLpL
 
-### Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-45/SVG-Fender-Guitar/index.html
+### Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-45/SVG-Fender-Stratocaster-Guitar/index.html
