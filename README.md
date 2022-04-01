@@ -1,4 +1,4 @@
-# 🎸SVG Fender Stratocaster Guitar 🎸
+# 🎸SVG Fender Stratocaster 🎸
 
 ## Кастомная гитара Fender Stratocaster 
 
